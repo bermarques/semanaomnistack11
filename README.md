@@ -20,6 +20,7 @@ Em [NodeJS](https://nodejs.org/) feito com:
 - Express
 - Knex
 - Sqlite3
+- [Celebrate](https://github.com/arb/celebrate/)
 
 ### Frontend:
 
