@@ -6,8 +6,6 @@
 </h1>
 
 
-<h3 align="center">Be The Hero</h4>
-
 <h4 align="center">Projeto desenvolvido durante a 11ª Semana Omnistack.</h4>
 
 </p>
