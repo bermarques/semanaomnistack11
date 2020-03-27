@@ -60,9 +60,6 @@ yarn start
 
 <br>
 
-## Licença
-Este projeto está sob a licença [MIT](LICENSE).
-
 ### Agradecimentos:
 [Diego Fernandes](https://github.com/diego3g) <br>
 [Rocketseat](https://github.com/Rocketseat)
