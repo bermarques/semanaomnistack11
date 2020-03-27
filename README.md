@@ -21,6 +21,9 @@ Em [NodeJS](https://nodejs.org/) feito com:
 - Knex
 - Sqlite3
 - [Celebrate](https://github.com/arb/celebrate/) para validações
+- [Jest](https://github.com/facebook/jest) para testing
+- [cross-env](https://github.com/kentcdodds/cross-env)
+- [supertest](https://github.com/visionmedia/supertest)
 
 ### Frontend:
 
